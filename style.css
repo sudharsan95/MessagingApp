@@ -1,0 +1,17 @@
+.bg-purple{
+    background-color: #6f42c1 !important;
+  }
+  .userImg{
+      width: 65px;
+      border-radius: 50%;
+  }
+
+.deleteMsg{
+  color:white;
+  background-color:#ff3c4f!important
+} 
+.ui-loader{
+  display: none !important;
+}
+
+
